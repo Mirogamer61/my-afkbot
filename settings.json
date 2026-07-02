@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "csz bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "csz bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "caelissz.aternos.me",
+    "port": 21266,
     "version": "",
     "try-creative": false
   },
